@@ -97,16 +97,19 @@ var distintoque = 0
 distintoque = cuarenta != cuarenta // distintoque = false
 distintoque = cuarenta != treinta // distintoque = true
 
-//LOGICOS
-
 
 console.log("############################################### ")
 console.log("#################  ENTRADA DATOS  ############# ")
 console.log("############################################### ")
 
-
-
+mensaje = prompt("inserte mensaje", "ingrese una linea de texto")
 
 console.log("############################################### ")
 console.log("#################  SALIDA DATOS  ############## ")
 console.log("############################################### ")
+alert("texto de prueba")
+alert(mensaje)
+
+console.log(mensaje)
+console.error(mensaje)
+console.info(mensaje)
