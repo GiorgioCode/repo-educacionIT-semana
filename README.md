@@ -1,4 +1,4 @@
-![HEADER](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/master/educacionIT_header.jpg)
+![HEADER](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/main/boton_diapositiva.png?token=GHSAT0AAAAAABYJWQ5N6CK2LUWKAMIMLJQCYZRBTFA)
 
 ## Instructor: Jorge Angel PAEZ
 
