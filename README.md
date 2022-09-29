@@ -17,3 +17,15 @@ Material desarrollado para el curso JavaScript desde cero de EducaciónIT
 # CLASE 02 - Operadores lógicos e interaccion con HTML
 
 [![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/repo-educacionIT-semana/tree/main/CLASE_02) [![DESCARGAR PRESENTACIÓN](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/main/boton_diapositiva.png?token=GHSAT0AAAAAABYJWQ5N6CK2LUWKAMIMLJQCYZRBTFA)](https://github.com/GiorgioCode/repo-educacionIT-semana/blob/main/CLASE_02/CLASE2_JSDC_J_PAEZ.pptx?raw=true)
+
+---
+
+## MATERIAL ADICIONAL:
+
+# Material recomendado para repaso de conceptos de HTML:
+
+[![VER CODIGO](https://www.youtube.com/watch?v=MJkdaVFHrto)](https://github.com/GiorgioCode/repo-educacionIT-semana/tree/main/hola_mundo_html.jpg)
+
+# Material recomendado para repaso de conceptos de CSS:
+
+[![VER CODIGO](https://www.youtube.com/watch?v=wZniZEbPAzk)](https://github.com/GiorgioCode/repo-educacionIT-semana/tree/main/hola_mundo_css.jpg)
