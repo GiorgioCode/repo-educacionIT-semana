@@ -24,8 +24,8 @@ Material desarrollado para el curso JavaScript desde cero de EducaciónIT
 
 # Material recomendado para repaso de conceptos de HTML:
 
-[![VER CODIGO](https://www.youtube.com/watch?v=MJkdaVFHrto)](https://github.com/GiorgioCode/repo-educacionIT-semana/tree/main/hola_mundo_html.jpg)
+[![VIDEO HOLA MUNDO HTML](https://www.youtube.com/watch?v=MJkdaVFHrto)](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/main/hola_mundo_html.jpg)
 
 # Material recomendado para repaso de conceptos de CSS:
 
-[![VER CODIGO](https://www.youtube.com/watch?v=wZniZEbPAzk)](https://github.com/GiorgioCode/repo-educacionIT-semana/tree/main/hola_mundo_css.jpg)
+[![VIDEO HOLA MUNDO CSS](https://www.youtube.com/watch?v=wZniZEbPAzk)](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/main/hola_mundo_css.jpg)
