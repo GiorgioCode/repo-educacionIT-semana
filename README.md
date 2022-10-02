@@ -6,7 +6,7 @@ Material desarrollado para el curso JavaScript desde cero de EducaciónIT
 
 ![Night Coding](https://tutoriasjs.netlify.app/coding_gif.gif)
 
----
+![HEADER](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/main/material_clases.jpg)
 
 # CLASE 01 - Tipos de datos, variables y operadores
 
@@ -26,7 +26,7 @@ Material desarrollado para el curso JavaScript desde cero de EducaciónIT
 
 ---
 
-## MATERIAL ADICIONAL:
+![HEADER](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/main/material_adicional.jpg)
 
 Material recomendado para repaso de conceptos de HTML:
 
