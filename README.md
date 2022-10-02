@@ -2,7 +2,7 @@
 
 ## Instructor: Jorge Angel PAEZ
 
-Material desarrollado para el curso JavaScript desde cero de EducaciónIT
+Material desarrollado para el curso "JavaScript desde Cero" de EducaciónIT
 
 ![Night Coding](https://tutoriasjs.netlify.app/coding_gif.gif)
 
@@ -23,6 +23,12 @@ Material desarrollado para el curso JavaScript desde cero de EducaciónIT
 # CLASE 03 - Objeto Date y Control de flujo
 
 [![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/repo-educacionIT-semana/tree/main/CLASE_03) [![DESCARGAR PRESENTACIÓN](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/main/boton_diapositiva.png?token=GHSAT0AAAAAABYJWQ5N6CK2LUWKAMIMLJQCYZRBTFA)](https://github.com/GiorgioCode/repo-educacionIT-semana/blob/main/CLASE_03/CLASE3_JSDC_J_PAEZ.pptx?raw=true)
+
+---
+
+# CLASE 04 - Ciclos e Iteraciones
+
+[![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/repo-educacionIT-semana/tree/main/CLASE_04) [![DESCARGAR PRESENTACIÓN](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/main/boton_diapositiva.png?token=GHSAT0AAAAAABYJWQ5N6CK2LUWKAMIMLJQCYZRBTFA)](https://github.com/GiorgioCode/repo-educacionIT-semana/blob/main/CLASE_04/CLASE4_JSDC_J_PAEZ.pptx?raw=true)
 
 ---
 
