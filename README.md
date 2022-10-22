@@ -56,6 +56,12 @@ Material desarrollado para el curso "JavaScript desde Cero" de EducaciónIT
 
 ---
 
+# CLASE 09 - Storage y Workshop
+
+[![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/repo-educacionIT-semana/tree/main/CLASE_09) [![DESCARGAR PRESENTACIÓN](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/main/boton_diapositiva.png?token=GHSAT0AAAAAABYJWQ5N6CK2LUWKAMIMLJQCYZRBTFA)](https://github.com/GiorgioCode/repo-educacionIT-semana/blob/main/CLASE_09/CLASE9_JSDC_J_PAEZ.pptx?raw=true)
+
+---
+
 ![HEADER](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-semana/main/material_adicional.jpg)
 
 Material recomendado para repaso de conceptos de HTML:
